@@ -20,8 +20,11 @@ def bonus
    }
   }
 
+<<<<<<< HEAD
   epic_tragedy[:montague][:hero][:status] = "dead"
   epic_tragedy[:capulet][:heroine][:status] = "dead"
+=======
+>>>>>>> 90f2a55e0eab2446372f6d077424eaff5aa9e428
 
 
   

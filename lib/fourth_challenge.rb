@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 def fourth_challenge
   epic_tragedy = {
+=======
+epic_tragedy = {
+>>>>>>> 90f2a55e0eab2446372f6d077424eaff5aa9e428
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
@@ -18,5 +22,9 @@ def fourth_challenge
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
+<<<<<<< HEAD
 }
 end
+=======
+}
+>>>>>>> 90f2a55e0eab2446372f6d077424eaff5aa9e428
