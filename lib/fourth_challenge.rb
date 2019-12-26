@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def fourth_challenge
   epic_tragedy = {
 =======
@@ -22,9 +21,5 @@ epic_tragedy = {
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-<<<<<<< HEAD
-}
 end
-=======
-}
->>>>>>> 90f2a55e0eab2446372f6d077424eaff5aa9e428
+
